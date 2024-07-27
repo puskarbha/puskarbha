@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @puskarbha
+- 👋 Hi, I’m Shovakhar Bhandari(puskar)
+- - 💻 I’m a software developer
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning ...
